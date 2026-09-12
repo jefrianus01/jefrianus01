@@ -30,6 +30,7 @@ Berorientasi pada pemecahan masalah dan riset berkelanjutan, saya terbiasa meran
 
 **3D Design & Modeling:**  
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-%23273AA5.svg?style=for-the-badge&logo=freecad&logoColor=white) ![Autodesk](https://img.shields.io/badge/Autodesk-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+--
 📫 **Mari Terhubung:**
 Anda dapat menjangkau saya untuk diskusi profesional, kolaborasi riset, atau sekadar bertukar pikiran melalui pesan di **Discord**.
 
