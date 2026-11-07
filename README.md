@@ -7,11 +7,11 @@ Driven by structured problem-solving and applied research, I design custom hardw
 
 ---
 
-### 🚀 Key Focus Areas
-- 🔭 **Current Focus:** Researching and developing commercial/industrial IoT and robotics systems while deploying embedded AI models onto edge hardware platforms.
-- 🌱 **Continuous Exploration:** Optimizing backend infrastructure (leveraging Docker and Firebase ecosystems) to enable real-time IoT data streams and AI analytics.
-- 👯 **Collaboration Opportunities:** Open to technical discussions, open-source projects, robotics/automation solutions, or joint software engineering efforts via Git/GitHub.
-- 💬 **Core Topics:** AI & IoT integration, robotics design, network engineering, cloud infrastructure, and 3D CAD design.
+###  Key Focus Areas
+-  **Current Focus:** Researching and developing commercial/industrial IoT and robotics systems while deploying embedded AI models onto edge hardware platforms.
+-  **Continuous Exploration:** Optimizing backend infrastructure (leveraging Docker and Firebase ecosystems) to enable real-time IoT data streams and AI analytics.
+-  **Collaboration Opportunities:** Open to technical discussions, open-source projects, robotics/automation solutions, or joint software engineering efforts via Git/GitHub.
+-  **Core Topics:** AI & IoT integration, robotics design, network engineering, cloud infrastructure, and 3D CAD design.
 
 ---
 
