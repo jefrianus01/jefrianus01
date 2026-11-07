@@ -1,4 +1,4 @@
-# Jefrianus (Jefry) Tanggur
+# Jefrianus Tanggur   (Jefry)
 **R&D Engineer (Robotics, IoT, & AI) | Computer & Network Engineering Alumnus**
 
 I am a hardware and software technology professional with a background in Computer and Network Engineering from Politeknik Negeri Kupang. Currently working as a Research and Development (R&D) Engineer in Kupang, I specialize in engineering scalable systems that integrate **Robotics**, **Internet of Things (IoT)**, and **Artificial Intelligence (AI)**.
