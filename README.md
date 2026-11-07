@@ -6,8 +6,6 @@ I am a hardware and software technology professional with a background in Comput
 Driven by structured problem-solving and applied research, I design custom hardware prototypes, build high-performance backend systems, and implement containerized deployments to deliver reliable, production-ready technology solutions.
 
 ---
-
-###  Key Focus Areas
 -  **Current Focus:** Researching and developing commercial/industrial IoT and robotics systems while deploying embedded AI models onto edge hardware platforms.
 -  **Continuous Exploration:** Optimizing backend infrastructure (leveraging Docker and Firebase ecosystems) to enable real-time IoT data streams and AI analytics.
 -  **Collaboration Opportunities:** Open to technical discussions, open-source projects, robotics/automation solutions, or joint software engineering efforts via Git/GitHub.
