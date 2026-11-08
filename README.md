@@ -41,3 +41,8 @@ Feel free to reach out for professional inquiries, research collaboration, or te
 ⚡ **Beyond Tech**  
 Maintaining perspective is vital for research and engineering. When I’m not writing code, training ML models, or assembling hardware, I recharge by taking long motorcycle touring trips across the landscapes of Timor and Flores.
  seperti ini 
+
+---
+web dev
+https://sdilolang.my.id
+https://risetterapan.com/Project2024/index.html
