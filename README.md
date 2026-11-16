@@ -54,3 +54,5 @@ web dev
 https://sdilolang.my.id
 --
 https://risetterapan.com/Project2024/index.html
+--
+https://tunasjaya.my.id/
